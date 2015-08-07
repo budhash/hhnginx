@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#http://webdevstudios.com/2014/07/17/setting-up-wordpress-nginx-hhvm-for-the-fastest-possible-load-times/
+#http://wpengine.com/mercury/how-to-start/
 # Authors: @kernelcurry, @chuckreynolds
 # URLs: http://github.com/kernelcurry, http://github.com/chuckreynolds
 
@@ -112,3 +114,4 @@ echo "=============================="
 echo "= Script Complete            ="
 echo "=============================="
 echo -e "${COLOR_NONE}"
+
