@@ -2,6 +2,12 @@
 
 #http://webdevstudios.com/2014/07/17/setting-up-wordpress-nginx-hhvm-for-the-fastest-possible-load-times/
 #http://wpengine.com/mercury/how-to-start/
+#https://wordpress.org/plugins/nginx-helper/
+#https://rtcamp.com/blog/why-we-never-use-varnish-with-nginx/
+#https://rtcamp.com/tutorials/linux/ubuntu-php-mysql-nginx-postfix/
+#https://kb.asmallorange.com/customer/portal/articles/1603150-all-about-our-wordpress-optimized-lemp
+#https://github.com/rtCamp/easyengine/issues/509
+
 # Authors: @kernelcurry, @chuckreynolds
 # URLs: http://github.com/kernelcurry, http://github.com/chuckreynolds
 
